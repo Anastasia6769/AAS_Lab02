@@ -1,0 +1,14 @@
+C:\Users\Student_12\Documents\Lab02_Shabanova\bin\Release\net10.0\Lab02_Shabanova.exe
+C:\Users\Student_12\Documents\Lab02_Shabanova\bin\Release\net10.0\Lab02_Shabanova.deps.json
+C:\Users\Student_12\Documents\Lab02_Shabanova\bin\Release\net10.0\Lab02_Shabanova.runtimeconfig.json
+C:\Users\Student_12\Documents\Lab02_Shabanova\bin\Release\net10.0\Lab02_Shabanova.dll
+C:\Users\Student_12\Documents\Lab02_Shabanova\bin\Release\net10.0\Lab02_Shabanova.pdb
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\Lab02_Shabanova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\Lab02_Shabanova.AssemblyInfoInputs.cache
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\Lab02_Shabanova.AssemblyInfo.cs
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\Lab02_Shabanova.csproj.CoreCompileInputs.cache
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\Lab02_Shabanova.dll
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\refint\Lab02_Shabanova.dll
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\Lab02_Shabanova.pdb
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\Lab02_Shabanova.genruntimeconfig.cache
+C:\Users\Student_12\Documents\Lab02_Shabanova\obj\Release\net10.0\ref\Lab02_Shabanova.dll
